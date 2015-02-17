@@ -1,4 +1,4 @@
-# This is just a cleanup of the data at the [Dallas Police website](dallaspolice.net)
+# This is just a cleanup of the data at the [Dallas Police website](http://www.dallaspolice.net/ois/ois.html)
 
 # The column headers
 * "Case #" this links the pdf summaries "206124-2014" = "OIS_2014_206124-2014.pdf"
