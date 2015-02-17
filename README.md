@@ -10,8 +10,8 @@
 * "Suspect Weapon"
 * "Suspect[1-3]ln" _Last Name_
 * "Suspect[1-3]fn" _First Name_
-* "Suspect[1-3]Race" _Race_
+* "Suspect[1-3]Race" _Race & Gender_
 * "Officer[1-13]ln" _Last Name_
 * "Officer[1-13]fn" _First Name_
-* "Officer[1-13]Race" _Race_
+* "Officer[1-13]Race" _Race & Gender_
 * "Grand Jury Disposition"
